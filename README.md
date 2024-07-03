@@ -7,7 +7,7 @@ This project involves the implementation of an AVL Tree in Python as part of a D
 ## Repository Structure
 
 - `AVLTree.py`: Contains the source code for the AVL Tree implementation.
-- `README.md`: Project overview and instructions.
+- `README.md`: Project overview.
 
 ## Requirements
 
