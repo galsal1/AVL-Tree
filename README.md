@@ -12,11 +12,11 @@ This project involves the implementation of an AVL Tree in Python as part of a D
 ## Requirements
 
 - **Programming Language**: Python 3.11
-- **Libraries**: No external libraries are to be used. The implementation should be based solely on standard Python.
+- **Libraries**: No external libraries are used. The implementation based solely on standard Python.
 
 ## Implementation Details
 
-The AVL Tree implementation should include the following functionalities:
+The AVL Tree implementation include the following functionalities:
 
 - **Search**: `search(k)` - Searches for a node with key `k`.
 - **Insert**: `insert(k, s)` - Inserts a node with key `k` and value `s`, returns the number of balancing operations performed.
