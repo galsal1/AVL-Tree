@@ -1,4 +1,4 @@
-# Project Title: AVL Tree Implementation
+# AVL Tree Implementation
 
 ## Project Description
 
